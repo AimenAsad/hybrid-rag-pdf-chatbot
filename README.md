@@ -23,7 +23,7 @@ PDFs → Loader (PyMuPDF) → Text Chunking → Embeddings (Ollama) → FAISS Ve
 
 ## Project Structure
 
-RAG/
+RAG/<br>
 │── app.py # Gradio Web App<br>
 │── main.py # CLI test script<br>
 │── vector_embedding.py # Vector store builder<br>
